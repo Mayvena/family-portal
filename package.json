@@ -1,0 +1,11 @@
+{
+  "name": "family_portal",
+  "version": "0.0.1",
+  "description": "A family Intranet portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hristo Kolev <hristo.at.kolev@gmail.com> (https://mayvena.com/)",
+  "license": "MIT"
+}
